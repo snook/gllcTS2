@@ -1,0 +1,21 @@
+<?php
+// Begin User Config
+
+$gllcts2_dbhost = "localhost"; // Host
+$gllcts2_dbuser = "username"; // Username
+$gllcts2_dbpass = "password"; // Password
+$gllcts2_dbname = "gllcts2"; // Database
+$gllcts2_dbprefix = "gllcts2_"; // Prefix for tables
+
+// End User Config
+/*
+****************************************************************
+* gllcTS2 for TeamSpeak 2 © Gryphon, LLC (www.gryphonllc.com ) *
+****************************************************************
+*
+* $Id: config.php.new 5 2005-10-26 23:19:04Z gryphon $
+* $Rev: 5 $
+* $LastChangedBy: gryphon $
+* $Date: 2005-10-26 16:19:04 -0700 (Wed, 26 Oct 2005) $
+*/
+?>
